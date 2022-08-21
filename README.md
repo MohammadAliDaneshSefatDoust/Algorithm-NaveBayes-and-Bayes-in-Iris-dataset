@@ -1,5 +1,5 @@
 # NaveBayes-and-Bayes-in-Iris-dataset
-________________________________________________________________
+
 NaveBayes and Bayes in Iris dataset "https://archive.ics.uci.edu/ml/datasets/iris"
 
 In this project, using Iris data (from the UCI collection), we implement Bayes and Naïve Bayes algorithm in Python.
